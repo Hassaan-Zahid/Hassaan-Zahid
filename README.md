@@ -86,12 +86,12 @@ I'm a **Senior Software Engineer** with a passion for building scalable, efficie
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hassaan-Zahid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hassaan's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassaan-Zahid&theme=tokyonight&hide_border=true" alt="Hassaan's GitHub Streak" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Hassaan-Zahid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hassaan's GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Hassaan-Zahid&theme=tokyonight&hide_border=true" alt="Hassaan's GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassaan-Zahid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hassaan-Zahid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <br/>
